@@ -82,7 +82,6 @@ public class VarastoTest {
     }
 
     @Test
-    @Ignore
     public void luoSaldollinenVarastoNegatiivisellaTilalla() {
         Varasto saldoVarasto = new Varasto(-4, 1.0);
 
