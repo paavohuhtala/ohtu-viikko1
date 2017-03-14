@@ -1,2 +1,5 @@
 /build/
 *.tmp
+/.idea/
+/.gradle/
+gradle.properties
